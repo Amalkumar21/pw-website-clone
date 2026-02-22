@@ -663,6 +663,7 @@ select {
     /* margin-top: 20px; */
     border-radius: 20px;
     background-color: #ffffff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
     
 }
 .vidhya-msg1 {
@@ -864,5 +865,131 @@ select {
     background-color: #5A4BDA;
     font-weight: 600;
     border-radius: 10px;
+    border: none;
+}
+.platform {
+    width: 1152px;
+    height: 471px;
+
+    margin-top: 45px;
+    margin-left: 182px;
+
+}
+.plat-msg {
+    width: 1152px;
+    height: 64px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.plat-msg1 {
+    width: 462px;
+    height: 64px;
+   
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #09090B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.plat-msg- {
+    width: 1152px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.plat-msg2 {
+    width: 722px;
+    height: 24px;
+   
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #3D3D3D;
+}
+.parameter {
+    width: 1152px;
+    height: 329px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;    
+}
+.para- {
+    width: 1152px;
+    height: 265px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.para1 {
+    width: 265px;
+    height: 265px;
+  
+    border-radius: 10px;
+
+   
+}
+.para-msg1  {
+    width: 220px;
+    height: 55px;
+    
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #09090B;
+    font-weight: 600;
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+
+}
+.para-msg2  {
+    width: 220px;
+    height: 28px;
+   
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #3D3D3D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px
+  
+}
+.para-list1 {
+    background-color: #FFF3E3;
+}
+.para-list2 {
+    background-color: #FFEEEE;
+}
+.para-list3 {
+    background-color: #E4FAFF;
+}
+.para-list4 {
+    background-color: #ECE7FF;
+}
+.para-btn {
+    width: 1152px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.get-btn {
+    width: 240px;
+    height: 54px;
+    color: #FFFFFF;
+    font-size: 17px;
+    font-family: sans-serif;
+    background-color: #5A4BDA;
+    border-radius: 5px;
     border: none;
 }
