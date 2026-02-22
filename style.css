@@ -217,6 +217,7 @@ select {
     width: 240px;
     height: 54px;
     background-color: #5A4BDA;
+    color: #FFFFFF;
     font-size: 17px;
     font-family: sans-serif;
     display: flex;
