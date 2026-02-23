@@ -1139,7 +1139,7 @@ select {
 .acad-img {
     width: 1120px;
     height: 388px;
-   
+    border-radius: 8px;
     background-image: url("pw-celebration.jpg");
     background-size: contain;
     background-repeat: no-repeat;
